@@ -4,18 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "run.sh"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/soichih/sca-service-noop.git"
   },
   "author": "",
-  "license": "ISC",
-  "sca": {
-    "label": "noop",
-    "bin": {
-        "run": "run.sh"
-    }
-  }
+  "license": "ISC"
 }
