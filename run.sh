@@ -1,3 +1,4 @@
-echo "doing nothing as requested!"
+hostname
+echo "doing nothing as requested."
 echo "[]" > products.json
 
