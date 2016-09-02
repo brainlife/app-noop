@@ -1,4 +1,4 @@
 hostname
-echo "doing nothing as requested."
+echo "doing nothing as requested (test branch)."
 echo "[]" > products.json
 
