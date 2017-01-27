@@ -1,4 +1,3 @@
-hostname
-echo "doing nothing as requested (test branch)."
-echo "[]" > products.json
+echo "doing nothing as requested on " `hostname`
+#echo "[]" > products.json
 
